@@ -28,5 +28,5 @@ Launch IntelliJ IDEA.
 Select "Open" and navigate to the cloned repository.
 Run the application:
 
-Locate the main class (e.g., Main.java).
+Locate the main class (MovieapiAplication).
 Right-click on the file and select "Run".
